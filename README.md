@@ -1,6 +1,8 @@
 # Telegram-news-bot-using-dialogflow
+<h2>
 Python based news telling bot
-[Linkt to Bot](https://t.me/Harshs_news_bot)
+[Link to Bot](https://t.me/Harshs_news_bot)
+  </h2>
 
 <br><br>
 <img src="https://github.com/HarshMathur86/Telegram-news-bot-using-dialogflow/blob/main/photo_2021-04-08_12-20-55.jpg" width="225" height="395"/>
