@@ -1,7 +1,7 @@
 # Telegram-news-bot-using-dialogflow
 <h2>
 Python based news telling bot
-[Link to Bot](https://t.me/Harshs_news_bot)
+<link href="https://t.me/Harshs_news_bot">Link to bot
   </h2>
 
 <br><br>
